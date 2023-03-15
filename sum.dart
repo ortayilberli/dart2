@@ -1,4 +1,4 @@
-int sum(int a, int b){
+float sum(int a, int b){
 
 return a+b;
 }
